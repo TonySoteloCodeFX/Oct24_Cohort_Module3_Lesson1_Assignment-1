@@ -31,9 +31,9 @@ restaurant_menu = {
 
 - Tracks customer service tickets, each with a unique ID, customer name, issue description, and status (open/closed).
 - Implement functions to:
-- Open a new service ticket.
-- Update the status of an existing ticket.
-- Display all tickets or filter by status.
+-- Open a new service ticket.
+-- Update the status of an existing ticket.
+-- Display all tickets or filter by status.
 - Initialize with some sample tickets and include functionality for additional ticket entry.
 
 Example ticket structure:
